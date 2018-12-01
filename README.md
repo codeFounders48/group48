@@ -4,6 +4,12 @@
 # App Description
 Shuffle is a textbook exchange service for students. Students can create an account and post textbooks that they have available to trade and textbooks that they need. The app will match students based on their needs and requirements and have them trade textbooks via mail. Shipping and Handling costs to be debated.
 
+# Pitch Deck
+https://docs.google.com/presentation/d/1-lpFXxZo7IoRwvdbSvhUAJo5iAe44NSez8xjy4vuWdg/edit?usp=sharing
+
+# Updated App Wireframe
+<img src="https://i.imgur.com/z5uo5ix.gif">
+
 # App Wireframe
 <img src="https://i.imgur.com/anhYPSM.gif">
 # General Attributes
